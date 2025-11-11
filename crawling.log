@@ -1,0 +1,108 @@
+2025-11-08 17:32:46,729 - INFO - ====== WebDriver manager ======
+2025-11-08 17:32:48,089 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:32:48,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:32:48,901 - INFO - Driver [C:\Users\Windows 10\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-08 17:32:50,116 - INFO - 크롤링 시작
+2025-11-08 17:32:50,117 - ERROR - 엑셀 처리 중 오류: Excel file format cannot be determined, you must specify an engine manually.
+2025-11-08 17:32:50,117 - ERROR - 메인 실행 중 오류: Excel file format cannot be determined, you must specify an engine manually.
+2025-11-08 17:32:52,260 - INFO - 드라이버 종료
+2025-11-08 17:34:55,119 - INFO - ====== WebDriver manager ======
+2025-11-08 17:34:56,436 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:34:56,861 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:34:57,260 - INFO - Driver [C:\Users\Windows 10\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-08 17:34:58,461 - INFO - 크롤링 시작
+2025-11-08 17:34:58,489 - INFO - CSV 파일 읽기 성공: utf-8 인코딩
+2025-11-08 17:34:58,489 - INFO - 파일 로드 완료: 4367개 행
+2025-11-08 17:34:58,492 - INFO - 처리 중: 24시 강서 젠틀리동물의료센터 - 7629.0
+2025-11-08 17:35:43,167 - INFO - 검색된 시설 수: 1
+2025-11-08 17:35:43,203 - WARNING - 주소 일치 시설 없음: 7629.0
+2025-11-08 17:35:45,204 - INFO - 처리 중: 24시 굿케어동물의료센터 - 8739.0
+2025-11-08 17:36:29,371 - INFO - 검색된 시설 수: 1
+2025-11-08 17:36:29,405 - WARNING - 주소 일치 시설 없음: 8739.0
+2025-11-08 17:36:31,407 - INFO - 처리 중: 24시 글로리 동물병원 - 8531.0
+2025-11-08 17:37:15,510 - INFO - 검색된 시설 수: 1
+2025-11-08 17:37:15,531 - WARNING - 주소 일치 시설 없음: 8531.0
+2025-11-08 17:37:17,532 - INFO - 처리 중: 24시 동물응급의료센터 - 2117.0
+2025-11-08 17:38:01,173 - INFO - 검색된 시설 수: 1
+2025-11-08 17:38:01,193 - WARNING - 주소 일치 시설 없음: 2117.0
+2025-11-08 17:38:03,193 - INFO - 처리 중: 24시 명동물메디컬센터 - 8236.0
+2025-11-08 17:38:47,150 - INFO - 검색된 시설 수: 1
+2025-11-08 17:38:47,169 - WARNING - 주소 일치 시설 없음: 8236.0
+2025-11-08 17:38:49,171 - INFO - 처리 중: 24시 산들산들 동물병원 - 4205.0
+2025-11-08 17:39:10,235 - WARNING - iframe 전환 실패: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+2025-11-08 17:39:14,339 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC200290>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/e70e0385abb6a907d949003815331acc/frame
+2025-11-08 17:39:18,471 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC200C90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/e70e0385abb6a907d949003815331acc/frame
+2025-11-08 17:39:22,557 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC201650>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/e70e0385abb6a907d949003815331acc/frame
+2025-11-08 17:39:26,635 - ERROR - 검색 중 오류 (24시 산들산들 동물병원): HTTPConnectionPool(host='localhost', port=64158): Max retries exceeded with url: /session/e70e0385abb6a907d949003815331acc/frame (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC202010>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+2025-11-08 17:39:28,636 - INFO - 처리 중: 24시 서울 탑 동물병원 - 8073.0
+2025-11-08 17:39:32,707 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC202B10>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/e70e0385abb6a907d949003815331acc/url
+2025-11-08 17:39:40,930 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CEC203F90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/e70e0385abb6a907d949003815331acc
+2025-11-08 17:42:38,406 - INFO - ====== WebDriver manager ======
+2025-11-08 17:42:39,713 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:42:40,122 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:42:40,525 - INFO - Driver [C:\Users\Windows 10\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-08 17:42:41,693 - INFO - 크롤링 시작
+2025-11-08 17:42:41,722 - INFO - CSV 파일 읽기 성공: utf-8 인코딩
+2025-11-08 17:42:41,723 - INFO - 파일 로드 완료: 4367개 행
+2025-11-08 17:42:41,725 - INFO - 처리 중: 24시 강서 젠틀리동물의료센터 - 서울특별시 강서구 마곡동 747
+2025-11-08 17:43:26,200 - INFO - 검색된 시설 수: 1
+2025-11-08 17:43:26,233 - WARNING - 주소 일치 시설 없음: 서울특별시 강서구 마곡동 747
+2025-11-08 17:43:28,233 - INFO - 처리 중: 24시 굿케어동물의료센터 - 서울특별시 관악구 봉천동 1673-21
+2025-11-08 17:44:12,407 - INFO - 검색된 시설 수: 1
+2025-11-08 17:44:12,427 - WARNING - 주소 일치 시설 없음: 서울특별시 관악구 봉천동 1673-21
+2025-11-08 17:44:14,428 - INFO - 처리 중: 24시 글로리 동물병원 - 서울특별시 금천구 독산동 145-13
+2025-11-08 17:44:16,502 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None)': /session/a8ae24cf99f3bb8d2b9c0be664cf8734
+2025-11-08 17:55:27,733 - INFO - ====== WebDriver manager ======
+2025-11-08 17:55:29,113 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:55:29,539 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 17:55:29,938 - INFO - Driver [C:\Users\Windows 10\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-08 17:55:31,181 - INFO - 크롤링 시작
+2025-11-08 17:55:31,215 - INFO - CSV 파일 읽기 성공: utf-8 인코딩
+2025-11-08 17:55:31,215 - INFO - 파일 로드 완료: 4367개 행
+2025-11-08 17:55:31,217 - INFO - 처리 중: 24시 강서 젠틀리동물의료센터 - 서울 강서구 마곡동 747
+2025-11-08 17:56:16,901 - INFO - 검색된 시설 수: 1
+2025-11-08 17:56:16,936 - WARNING - 주소 일치 시설 없음: 서울 강서구 마곡동 747
+2025-11-08 17:56:18,937 - INFO - 처리 중: 24시 굿케어동물의료센터 - 서울 관악구 봉천동 1673-21
+2025-11-08 17:57:03,375 - INFO - 검색된 시설 수: 1
+2025-11-08 17:57:03,395 - WARNING - 주소 일치 시설 없음: 서울 관악구 봉천동 1673-21
+2025-11-08 17:57:05,396 - INFO - 처리 중: 24시 글로리 동물병원 - 서울 금천구 독산동 145-13
+2025-11-08 17:57:49,021 - INFO - 검색된 시설 수: 1
+2025-11-08 17:57:49,044 - WARNING - 주소 일치 시설 없음: 서울 금천구 독산동 145-13
+2025-11-08 17:57:51,046 - INFO - 처리 중: 24시 동물응급의료센터 - 서울 중랑구 중화동 207
+2025-11-08 17:58:34,541 - INFO - 검색된 시설 수: 1
+2025-11-08 17:58:34,565 - WARNING - 주소 일치 시설 없음: 서울 중랑구 중화동 207
+2025-11-08 17:58:36,566 - INFO - 처리 중: 24시 명동물메디컬센터 - 서울 구로구 개봉동 492
+2025-11-08 17:59:19,734 - WARNING - iframe 전환 실패: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+2025-11-08 17:59:23,797 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFAF3F90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/frame
+2025-11-08 17:59:27,865 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFCA10>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/frame
+2025-11-08 17:59:31,926 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFD3D0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/frame
+2025-11-08 17:59:36,025 - ERROR - 검색 중 오류 (24시 명동물메디컬센터): HTTPConnectionPool(host='localhost', port=63727): Max retries exceeded with url: /session/052b86d2bd2a417011e8febc2667c601/frame (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFDD90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+2025-11-08 17:59:38,026 - INFO - 처리 중: 24시 산들산들 동물병원 - 서울 마포구 아현동 424-14
+2025-11-08 17:59:42,084 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFE8D0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/url
+2025-11-08 17:59:46,156 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFF350>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/url
+2025-11-08 17:59:50,251 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023AEFBFFE10>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/052b86d2bd2a417011e8febc2667c601/url
+2025-11-08 17:59:59,402 - INFO - ====== WebDriver manager ======
+2025-11-08 18:00:00,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 18:00:01,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-08 18:00:01,631 - INFO - Driver [C:\Users\Windows 10\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-08 18:00:02,862 - INFO - 크롤링 시작
+2025-11-08 18:00:02,914 - INFO - CSV 파일 읽기 성공: cp949 인코딩
+2025-11-08 18:00:02,915 - INFO - 파일 로드 완료: 4367개 행
+2025-11-08 18:00:02,917 - INFO - 처리 중: 24시 강서 젠틀리동물의료센터 - "서울 강서구 마곡동 747"
+2025-11-08 18:00:48,226 - INFO - 검색된 시설 수: 1
+2025-11-08 18:00:48,259 - WARNING - 주소 일치 시설 없음: "서울 강서구 마곡동 747"
+2025-11-08 18:00:50,261 - INFO - 처리 중: 24시 굿케어동물의료센터 - 서울 관악구 봉천동 1673-21
+2025-11-08 18:01:34,068 - INFO - 검색된 시설 수: 1
+2025-11-08 18:01:34,093 - WARNING - 주소 일치 시설 없음: 서울 관악구 봉천동 1673-21
+2025-11-08 18:01:36,093 - INFO - 처리 중: 24시 글로리 동물병원 - 서울 금천구 독산동 145-13
+2025-11-08 18:02:19,782 - INFO - 검색된 시설 수: 1
+2025-11-08 18:02:19,807 - WARNING - 주소 일치 시설 없음: 서울 금천구 독산동 145-13
+2025-11-08 18:02:21,808 - INFO - 처리 중: 24시 동물응급의료센터 - 서울 중랑구 중화동 207
+2025-11-08 18:02:39,552 - WARNING - iframe 전환 실패: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+2025-11-08 18:02:43,634 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FC490>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/85503672d839665080e1445e04253760/frame
+2025-11-08 18:02:47,722 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FCF10>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/85503672d839665080e1445e04253760/frame
+2025-11-08 18:02:51,811 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FD8D0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/85503672d839665080e1445e04253760/frame
+2025-11-08 18:02:55,932 - ERROR - 검색 중 오류 (24시 동물응급의료센터): HTTPConnectionPool(host='localhost', port=60902): Max retries exceeded with url: /session/85503672d839665080e1445e04253760/frame (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FE290>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+2025-11-08 18:02:57,933 - INFO - 처리 중: 24시 명동물메디컬센터 - 서울 구로구 개봉동 492
+2025-11-08 18:03:02,049 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FEE50>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/85503672d839665080e1445e04253760/url
+2025-11-08 18:03:06,130 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000143038FF8D0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/85503672d839665080e1445e04253760/url
